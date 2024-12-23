@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quản Lý Người Nổi Tiếng</string>
+    <string name="s_username">Tên đăng nhập: </string>
+    <string name="s_password">Mật khẩu: </string>
+    <string name="s_login">Đăng nhập</string>
+    <string name="s_about">Thông tin</string>
+    <string name="s_homepage">Người nổi tiếng</string>
+    <string name="s_typemenu">Phân loại</string>
+    <string name="s_loginsuccess">Đăng nhập thành công</string>
+    <string name="s_loginfail">Đăng nhập thất bại</string>
+    <string name="s_error">Lỗi:</string>
+
+    <string name="s_id">Mã:</string>
+    <string name="s_fullname">Họ và tên:</string>
+    <string name="s_type">Phân loại:</string>
+    <string name="s_deletetitle1">XÓA NGƯỜI NỔI TIẾNG</string>
+    <string name="s_deleteMessage1">Bạn có chắc muốn xóa người nổi tiếng này?</string>
+    <string name="s_yes">Có</string>
+    <string name="s_no">Không</string>
+    <string name="s_deletesuccess1">Xóa thành công người nổi tiếng có mã</string>
+    <string name="s_addsuccess1">Thêm thành công người nổi tiếng có mã</string>
+    <string name="s_updatesuccess1">Cập nhật thành công người nổi tiếng có mã</string>
+    <string name="s_choose">Chọn ảnh</string>
+    <string name="s_save">Lưu</string>
+    <string name="s_exit">Thoát</string>
+    <string name="s_country">Quê quán:</string>
+    <string name="s_born">Năm sinh:</string>
+    <string name="s_grant">Quyền đã được cấp</string>
+    <string name="s_deny">Quyền đã bị từ chối</string>
+
+    <string name="s_typeid">Mã loại:</string>
+    <string name="s_typename">Tên loại:</string>
+    <string name="s_deletetitle2">Xóa phân loại</string>
+    <string name="s_deleteMessage2">Bạn có chắc muốn xóa phân loại này?</string>
+    <string name="s_deletesuccess2">Xóa thành công phân loại có mã</string>
+    <string name="s_addsuccess2">Thêm thành công phân loại có mã</string>
+    <string name="s_updatesuccess2">Cập nhật thành công phân loại có mã</string>
+
+    <string name="s_warning">Ảnh và các ô nhập liệu không được bỏ trống</string>
+    <string name="s_warning2">Tên loại không được bỏ trống</string>
+    <string name="s_warning3">Năm sinh không hợp lệ</string>
+    <string name="s_warning4">Tên phân loại đã tồn tại</string>
+    <string name="s_warning5">Bạn phải thay đổi hoặc xóa người nổi tiếng có phân loại này trước khi xóa</string>
+
+    <string name="s_ttcn">Thông Tin Cá Nhân</string>
+    <string name="s_sname">Họ và tên:</string>
+    <string name="s_sclass">Lớp:</string>
+    <string name="s_sid">MSSV:</string>
+    <string name="s_smail">Thư điện tử:</string>
+    <string name="s_sphone">Số điện thoại:</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string name="s_dial">Quay số</string>
+    <string name="s_call">Gọi</string>
+    <string name="s_clear">Xóa</string>
+    <string name="s_markertitle">Đánh dấu tại STU</string>
+    <string name="s_snippet">Đại Học Công Nghệ Sài Gòn</string>
+</resources>

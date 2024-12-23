@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Celebrity Management</string>
+    <string name="s_username">Username: </string>
+    <string name="s_password">Password: </string>
+    <string name="s_login">Login</string>
+    <string name="s_about">About</string>
+    <string name="s_homepage">Celebrity</string>
+    <string name="s_typemenu">Type</string>
+    <string name="s_loginsuccess">Login Success</string>
+    <string name="s_loginfail">Login Fail</string>
+    <string name="s_error">Error: </string>
+
+    <string name="s_id">Id:</string>
+    <string name="s_fullname">Fullname:</string>
+    <string name="s_type">Type:</string>
+    <string name="s_deletetitle1">DELETE CELEBRITY</string>
+    <string name="s_deleteMessage1">Do you want to delete this celebrity?</string>
+    <string name="s_yes">Yes</string>
+    <string name="s_no">No</string>
+    <string name="s_deletesuccess1">Delete success celebrity has id </string>
+    <string name="s_addsuccess1">Add success celebrity has id </string>
+    <string name="s_updatesuccess1">Update success celebrity has id </string>
+    <string name="s_choose">Choose image</string>
+    <string name="s_save">Save</string>
+    <string name="s_exit">Exit</string>
+    <string name="s_country">Country:</string>
+    <string name="s_born">Born:</string>
+    <string name="s_grant">Permission granted</string>
+    <string name="s_deny">Permission denied</string>
+
+    <string name="s_typeid">Type id:</string>
+    <string name="s_typename">Type name:</string>
+    <string name="s_deletetitle2">DELETE TYPE</string>
+    <string name="s_deleteMessage2">Do you want to delete this type?</string>
+    <string name="s_deletesuccess2">Delete success type has id </string>
+    <string name="s_addsuccess2">Add success type has id </string>
+    <string name="s_updatesuccess2">Update success type has id </string>
+
+    <string name="s_warning">Image and input field cannot empty</string>
+    <string name="s_warning2">Type name cannot empty</string>
+    <string name="s_warning3">Invalid year of birth</string>
+    <string name="s_warning4">Type name already exist</string>
+    <string name="s_warning5">Must change type or delete celebrity has this type before delete</string>
+
+    <string name="s_ttcn">Personal Info</string>
+    <string name="s_sname">Student name:</string>
+    <string name="s_sclass">Class:</string>
+    <string name="s_sid">Student id:</string>
+    <string name="s_smail">Email:</string>
+    <string name="s_sphone">Phone:</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string name="s_dial">Dial</string>
+    <string name="s_call">Call</string>
+    <string name="s_clear">Clear</string>
+    <string name="s_markertitle">Marker in STU</string>
+    <string name="s_snippet">Saigon Technology University</string>
+
+</resources>
